@@ -1,6 +1,6 @@
 # ruffer-test
 *Disclamer, only project not for health referrals*
-**This Project From Algorimics INternational School**
+**This Project From Algoritmics International School**
 
 Name    |   Content
 --------|------------
